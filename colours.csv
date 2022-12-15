@@ -1,0 +1,16 @@
+type,colour_name,colour
+Lactobacillus_fermentum,indigo-900,#1A237E
+Acetobacter_orientalis,yellow-900,#F57F17
+Lactobacillus_delbrueckii_subsp._lactis,light blue-300,#4FC3F7
+Acetobacter_lovaniensis,yellow-700,#FBC02D
+Lactobacillus_helveticus,blue-700,#1976D2
+Lactobacillus_sp._RA2113,light blue-500,#03A9F4
+Propionibacterium_sp._oral_taxon_193,purple-600,#8E24AA
+Acetobacter_sp._SRT1,yellow-500,#FFEB3B
+Rhodanobacter_fulvus_Jip2,deep purple-300,#9575CD
+[Pseudomonas]_geniculata,purple-100,#E1BEE7
+Enterococcus_hirae,green-300,#81C784
+Moraxella_osloensis,purple-300,#BA68C8
+Enterococcus_xinjiangensis,green-100,#C8E6C9
+Staphylococcus_warneri,purple-300,#BA68C8
+NA,grey-300,#E0E0E0
