@@ -9,7 +9,7 @@ Raw data files, R scripts, and bioinformatic scripts (Ben Auxier) for data analy
 - ph_evol_exp.xlsx
 - xxxx.R
 
-## community species compositions:
+## community compositions:
 - 01.cluster.SILVA.sh
 - 02.minimap2.sh
 - 03.normalize.join.R
