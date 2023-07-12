@@ -3,11 +3,11 @@ Raw data files, R scripts, and bioinformatic scripts (Ben Auxier) for data analy
 
 ## aroma profiles:
 - rerun_v4_raw.xlsx
-- ph_evol_exp_v3.R
+- sel_exp_aroma_v9.R
 
 ## ph acidity:
 - ph_evol_exp.xlsx
-- sel_exp_aroma_v9.R
+- ph_evol_exp_v4.R
 
 ## community compositions:
 - 01.cluster.SILVA.sh
@@ -16,5 +16,9 @@ Raw data files, R scripts, and bioinformatic scripts (Ben Auxier) for data analy
 - 220208_META.csv
 - colours.csv
 - new_names.csv
-- comm_comp_v7.R
+- comm_comp_v8.R
 
+## supplementary 
+- table_S3_cluster_summary.xlsx
+
+  
